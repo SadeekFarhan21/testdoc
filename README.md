@@ -19,6 +19,3 @@ Check out the [p4c Documentation](https://github.com/p4lang/p4c/tree/main/docs) 
 Contribute to P4
 -----------------
 We aim to create an open source project that is maintained and owned by the community. Check out the [Contributor Guide](https://github.com/p4lang/p4c/blob/main/docs/CodingStandardPhilosophy.md#Git-commits-and-pull-requests).
-
-
-# testdoc
